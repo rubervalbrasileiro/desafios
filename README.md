@@ -1,19 +1,23 @@
 # **Os projetos deste repositório tem como finalidades aprimorar os conhecimentos adquiridos.**
 
 ## Status: (*desafio shopping Iguatemy concluído.*) 🔄
-## Status: (*em desenvolvimento...*) 🔄
+## Status: (*em desenvolvimento... de melhorias*) 🔄
 
 ## Tecnologia Prevista: 💻
-- Linguagem: JAVA SCRIPT | JAVA ☕ (códigos escritos em ambas liguagens)
+- Linguagem: JAVA SCRIPT (códigos escritos em ambas liguagens)
 - IDE: VS-Code Integrated Development Environment (Ambiente de Desenvolvimento Integrado) 🧊
 - Git Bash 🗂️
 - Banco de Dados: MySQL 🛢️
-- Liguagem: Overleaf
 
 
 ## TDS: Desenvolvedores: </>
 - *Ruberval Brasileiro (TDS)* 👨‍💻
 - *Kathlyn Letícia (Tutor)* 👨‍🏫
+- Adriel Gomes Rodrigues da Silva👨‍💻
+- Maria Carolina Barbosa👨‍💻
+- Junior👨‍💻
+- Maíra Lourenço👨‍💻
+- Paulo Francisco Ferreira de Fraga👨‍💻
 
 ## Introdução: 🧾
 > No mundo atual é indispensável o uso de ferramentas e tecnologias de gestão para as nossas tarefas do dia a dia.
