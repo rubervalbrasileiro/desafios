@@ -2,10 +2,10 @@
 Crie um menu de opções dentro de um do while, onde o programa
 só encerra quando o usuário digitar 4 (sair).
 Opções:
-1 - Mostrar uma mensagem motivacional
-2 - Mostrar a hora atual (pode ser só um texto fixo, tipo "12:00h")
-3 – Mensagem de Boa noite
-4 - Sair */
+1 - Sua opção digitada foi 1 é o setor de VESTUÁRIO
+2 - Sua opção digitada foi 2 é o setor de PERFUMÁRIA")
+3 – Sua opção digitada foi 3 é o setor de JOIAS !
+4 - Sair É bom estar com você, volte sempre!*/
 
 // Exibe o menu de opções
 
