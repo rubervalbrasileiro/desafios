@@ -4,7 +4,7 @@
 ## Status: (*em desenvolvimento... de melhorias*) 🔄
 
 ## Tecnologia Prevista: 💻
-- Linguagem: JAVA SCRIPT (códigos escritos em ambas liguagens)
+- Linguagem: JAVA SCRIPT 
 - IDE: VS-Code Integrated Development Environment (Ambiente de Desenvolvimento Integrado) 🧊
 - Git Bash 🗂️
 - Banco de Dados: MySQL 🛢️
